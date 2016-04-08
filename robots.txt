@@ -14,15 +14,6 @@ Disallow: /command.php
 Disallow: /command1.php
 Disallow: /config.yaml
 Disallow: /favicon.ico
-Disallow: /index.html
-Disallow: /index_135.html
-Disallow: /index_136.html
-Disallow: /index_137.html
-Disallow: /index_138.html
-Disallow: /index_139.html
-Disallow: /index_140.html
-Disallow: /index_141.html
-Disallow: /index_142.html
 Disallow: /index_search.html
 Disallow: /mapCard.html
 Disallow: /tc_verify.txt
