@@ -57,6 +57,7 @@ i{display:inline-block;_display:inline;zoom:1;cursor:pointer;position:relative;w
 .tielu{background-position:-32px 0px;top:3px;right:1px;}
 .youdao{background-position:-48px 0px;top:3px;right:1px;}
 .zhihu{background-position:-48px -32px;top:3px;right:1px;}
+.jianshu{background-position:-64px -32px;top:3px;right:1px;}
 
 .tc-red,.tc-red a{color:#F85050!important;}
 .tc-green,.tc-green a{color:#1EAC1E!important;}
