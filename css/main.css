@@ -58,7 +58,7 @@ i{display:inline-block;_display:inline;zoom:1;cursor:pointer;position:relative;w
 .youdao{background-position:-48px 0px;top:3px;right:1px;}
 .zhihu{background-position:-48px -32px;top:3px;right:1px;}
 .jianshu{background-position:-64px -32px;top:3px;right:1px;}
-.ai{background-position:-80px -32px;top:3px;right:3px;}
+.ai{background-position:-80px -32px;top:3px;right:1px;}
 
 .tc-red,.tc-red a{color:#F85050!important;}
 .tc-green,.tc-green a{color:#1EAC1E!important;}
@@ -139,7 +139,7 @@ b.space{display:inline-block;_display:inline;zoom:1;height:13px;width:0;position
 .box-hotword{display:inline;vertical-align:bottom;position:absolute;bottom:5px;white-space:nowrap;font:normal 12px/1.231 宋体!important;margin-left:15px;}
 .box-hotword span{margin:0 9px;}
 .box-hotword a{color:#666;}
-.box-leftbar{border:1px solid #CBE6BD;padding:2px;background:#ECF5E8;height:762px;overflow:hidden;}
+.box-leftbar{border:1px solid #CBE6BD;padding:2px;background:#ECF5E8;height:763px;overflow:hidden;}
 .box-leftbar_inner{background:#F9FEF4;overflow:hidden;width:214px;}
 .box-sidebar{background:#F9FEF4;padding:12px 0 11px 9px;margin:0 5px;width:214px;}
 .box-sidebar_title{display:block;line-height:30px;}
