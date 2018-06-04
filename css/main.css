@@ -60,6 +60,8 @@ i{display:inline-block;_display:inline;zoom:1;cursor:pointer;position:relative;w
 .jianshu{background-position:-64px -32px;top:3px;right:1px;}
 .ai{background-position:-80px -32px;top:3px;right:1px;}
 .linkedin{background-position:-96px -32px;top:3px;right:1px;}
+.gitlab{background-position:-112px -32px;top:3px;right:1px;}
+.bitbucket{background-position:-128px -32px;top:3px;right:1px;}
 
 .tc-red,.tc-red a{color:#F85050!important;}
 .tc-green,.tc-green a{color:#1EAC1E!important;}
