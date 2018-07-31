@@ -9,6 +9,18 @@ A web-based tool for visualizing neural network topologies. It currently support
 ### Demo
 - [Visualization of the Deep Convolutional Neural Network "AlexNet"](http://www.lxzh123.com/app/netscope/#/preset/alexnet)
 
+### Run netscope in localhost
+
+```
+#maybe you need to run with sudo or change to su first
+npm install http-server -g
+#run with normal user
+cd netscope
+http-server
+```
+
+Then open the url folow the output of `http-server` command.
+
 ### License
 
 Released under the MIT license.
