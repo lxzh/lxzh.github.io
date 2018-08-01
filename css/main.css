@@ -66,6 +66,7 @@ i{display:inline-block;_display:inline;zoom:1;cursor:pointer;position:relative;w
 .tc-red,.tc-red a{color:#F85050!important;}
 .tc-green,.tc-green a{color:#1EAC1E!important;}
 .tc-blue,.tc-blue a{color:#0053a5!important;}
+.tc-small,.tc-small a{font-size:12px;}
 b.space{display:inline-block;_display:inline;zoom:1;height:13px;width:0;position:relative;top:2px;border-left:1px solid #999;}
 .ft{float:inherit;}
 .ft-l{float:left;}
@@ -190,6 +191,7 @@ b.space{display:inline-block;_display:inline;zoom:1;height:13px;width:0;position
 .box-sort_more a{color:#666;font-size:12px;font-family:\5B8B\4F53;}
 .box-sort_content{overflow:hidden;white-space:nowrap;padding:5px 0;line-height:32px;background:#fff;text-align:center;border-bottom:5px solid #E5EFDB;background:#FBFEF7;}
 .box-sort_last{border:0;}
+.box-sort_content.small a{font-size:10px;}
 .box-sort_content span{margin:0 11px;}
 .box-sort_content span em{color:#999;margin:3px;}
 .box-tools{margin-top:10px;border:1px solid #CBE6BD;padding:2px;background:#ECF5E8;overflow:hidden;height:85px;position:relative;}
